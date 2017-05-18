@@ -1,0 +1,17 @@
+---
+
+# host url and token
+source_host: "https://gitlab.a.net/"
+source_host_token: ""
+
+dest_host: "https://gitlab.b.net/"
+dest_host_token: ""
+
+# default new user password.
+new_user_password: "Sis66Tnhnz4LjrHEpaDE"
+# send reset password email.
+send_email: true
+
+requeset_timeout: 20
+
+git_binary_path: "/usr/bin/git" 
